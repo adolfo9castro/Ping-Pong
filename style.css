@@ -1,0 +1,21 @@
+h1{
+	display: block;
+    font-family: Verdana;
+    left: 0;
+    margin: 30px auto;
+    position: relative;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: auto;
+}
+
+canvas{
+	border: solid;
+	margin: 0 auto;
+	display: block;
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0
+}
